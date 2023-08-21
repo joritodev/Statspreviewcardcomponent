@@ -120,6 +120,7 @@ h2 {
     }
     .stats
     {
+        padding-top: 0px;
         flex-direction: column;
     }
     h2
